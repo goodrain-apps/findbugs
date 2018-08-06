@@ -12,4 +12,4 @@ docker run --name sonarqube -e SONARQUBE_JDBC_URL=jdbc:postgresql://127.0.0.1:54
 
 ## Usage
 
-具体使用可以参考example
+具体使用可以参考examples
