@@ -3,7 +3,7 @@ services:
   postgres:
     image: postgres:10.4
     container_name: postgres
-    enviroment:
+    environment:
       - POSTGRES_USER=sonar 
       - POSTGRES_PASSWORD=sonar 
       - POSTGRE_DB=sonar
